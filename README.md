@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shivambaranwal_" target="blank"><img src="https://img.shields.io/twitter/follow/shivambaranwal_?logo=twitter&style=for-the-badge" alt="shivambaranwal_" /></a> </p>
 
-- 🔭 I’m currently working on **my Own Projects for improving my SKILLS**
+- 🔭 I’m currently exploring the **programming domains.**
 
-- 🌱 I’m currently learning **Machine Learning and exploring the Domain**
+- 🌱 I’m currently enrolled in **NMIMS doing integrated MBA with B.Tech in Computer Engineering Branch.**
 
 - 👯 I’m looking to collaborate on **any project which will add values to my skillset.**
 
