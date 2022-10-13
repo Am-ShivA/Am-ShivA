@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center"> Hola👋, I'm Shivam Baranwal</h1>
 <h3 align="center">A Learner who is passionate About Coding.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="https://vijaymishra964.com/wp-content/uploads/2019/11/web-design.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am-shiva&label=Profile%20views&color=0e75b6&style=flat" alt="am-shiva" /> </p>
 
