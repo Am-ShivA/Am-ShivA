@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently exploring the **programming domains.**
 
-- 🌱 I’m currently enrolled in **NMIMS doing integrated MBA with B.Tech in Computer Engineering Branch.**
-
-- 👯 I’m looking to collaborate on **any project which will add values to my skillset.**
+- 🌱 Enrolled in **NMIMS doing integrated MBA with B.Tech in CSE Branch.**
 
 - 👨‍💻 Connect me on LinkedIn [https://www.linkedin.com/in/shivam-baranwal-nmims](https://www.linkedin.com/in/shivam-baranwal-nmims)
 
